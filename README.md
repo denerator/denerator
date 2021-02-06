@@ -10,7 +10,7 @@
 </br>
 </br>
 
-I'm a Full Stack Developer from Ukraine. Beside's programming, I enjoy and traveling and taking photos of literraly everything.
+I'm a Full Stack Developer from Ukraine. Beside's programming, I like traveling and taking pictures of literraly everything.
 
 
 <img align="right" src="https://media2.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif?cid=ecf05e47yz063jordxp4hkk5tl8d20tldyib94ymn4beft88&rid=giphy.gif" />
