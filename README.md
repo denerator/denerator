@@ -1,15 +1,5 @@
 ## Hi there 👋, I'm Den!
 
-<a href="https://www.linkedin.com/in/denerator/">
-  <img align="left" alt="Den's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/DenProgrammer">
-  <img align="left" alt="Den's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
-</br>
-</br>
-
 I'm a Full Stack Developer from Ukraine. Beside's programming, I like traveling and taking pictures of literraly everything.
 
 
@@ -21,7 +11,6 @@ I'm a Full Stack Developer from Ukraine. Beside's programming, I like traveling 
 - 🔭 I’m currently working on <a href="https://github.com/tenanter" />Tenanter App </a>
 - 🌱 I’m currently learning GraphQL
 - 🤔 I’m looking for help with ESP8266
-- 📫 How to reach me: denischernov@pm.me
 - ⚡ Fun fact: I'm a huge fan of Dark series
 
 </br>
