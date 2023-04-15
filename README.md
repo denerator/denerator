@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Den!
+## Hi there 👋, I'm Denys!
 
 I'm a Full Stack Developer from Ukraine. Beside's programming, I like traveling and taking pictures of literraly everything.
 
